@@ -12,3 +12,6 @@ The objective of this project was to analyze gaming behavior using a dataset con
 5. Insight Generation: Generate actionable insights and recommendations for game developers and marketers to enhance player experience, optimize game difficulty, and improve player retention.
 # Conclusion:
 By successfully analyzing the gaming dataset and decoding player behavior, this project provides valuable insights into player engagement, preferences, and performance within the game. These insights can inform strategic decisions for game development, marketing strategies, and player retention efforts, ultimately contributing to the success and growth of the gaming platform.
+
+# Contact:-
+Linkedin : https://www.linkedin.com/in/jainil-gohel Email : jainilgohel01@gmail.com
