@@ -1,7 +1,4 @@
-
-Certainly! Here's a project objective for your completed project:
-
-Project Objective: Decode Gaming Behavior
+#Project Objective: Decode Gaming Behavior
 
 Objective:
 The objective of this project was to analyze gaming behavior using a dataset consisting of player details and level details from a gaming platform. Through SQL queries and analysis, the project aimed to uncover insights into player engagement, performance, and preferences within the game.
